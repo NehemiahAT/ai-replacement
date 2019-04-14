@@ -29,7 +29,7 @@ var toleranceLimit = null; /* Put the tolerance limit here. */
 
 function decision() {
 
-if (Math.abs(avgTwo - avg) > toleranceLimit) {
+if (Math.abs(avgTwo - avg) < toleranceLimit) {
 return true;
 } 
 
