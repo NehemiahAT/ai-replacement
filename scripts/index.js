@@ -10,7 +10,7 @@ function add(accumulator, a) {
 
 var avg = sum / cnt; /* Find the average of the trainingData. */
 
-var newData = []; /* Data that can be used to determine the answer to
+var newData = null; /* Data that can be used to determine the answer to
 * answer the question this was designed to answer. */
 
 var trainingDataNewData = trainingData.concat(newData);
