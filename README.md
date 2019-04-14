@@ -15,3 +15,5 @@ wish you evaluate should fluctuate before the library should give a "no" answer.
 
 What the computer thinks about your data you wish for the computer to evaluate will be in the console after you give it the data it needs. 
 It will answer "true" or "false" for "yes" or "no," respectively. 
+
+Note: all the variables are built-in. You don't need to declare them yourself.
