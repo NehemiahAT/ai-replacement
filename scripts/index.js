@@ -23,7 +23,7 @@ function addTwo(accumulator, a) {
    return accumulator + a;
 } /* Find the sum of all the numbers in the trainingDataNewData array. */
 
-var avgTwo = sumTwo/cntTwo; /* Find the average of the trainingDataNewData. */
+var avgTwo = sumTwo / cntTwo; /* Find the average of the trainingDataNewData. */
 
 var toleranceLimit = null; /* Put the tolerance limit here. */
 
