@@ -1,5 +1,5 @@
-# You Don't Need AI for That!
-You Don't Need AI for That! is a JavaScript that is built to do complicated things (complicated to a computer, anyway) without the help of 
+# Smarty-Pants Computer
+Smarty-Pants Computer is a JavaScript that is built to do complicated things (complicated to a computer, anyway) without the help of 
 AI. There are a few steps to using it. The first is to download the JavaScript file index.js from this repository. Then, you must put your 
 JavaScript in a script tag with an `src` attrabute with a file path to wherever the index.js file is to implement the library. Then, once 
 the library is implemented, you must give the training data and the data you wish to evaluate. This repository is built to give a "yes" or 
