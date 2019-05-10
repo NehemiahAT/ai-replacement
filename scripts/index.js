@@ -59,9 +59,6 @@ if (Math.abs(avgTwo - avg) <= toleranceLimit) {
 return true;
 } 
 
-else if (avgTwo === avg) {
-return true;
-} 
 
 else {
 return false;
